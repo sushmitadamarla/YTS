@@ -1,0 +1,30 @@
+#h1
+{
+   font-family: "Roboto Slab", serif;
+   color: whitesmoke;
+   text-align: center;
+}
+
+#html
+{
+    background-color:rgb(6, 6, 61);
+}
+
+.p{
+    font-size:larger;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#img{
+    padding: 50px;
+    width: 40%;
+    margin-left: 25%;
+}
+
+#label{
+    color: whitesmoke;
+    font-size:larger;
+}
+
+
